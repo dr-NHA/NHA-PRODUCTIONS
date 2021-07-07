@@ -202,7 +202,7 @@ echo.
 SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 echo.
 SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
-start "" "%FX%" %REFC%/%REFV%
+start /min "" "%FX%" %REFC%/%REFV%
 SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 ping localhost -n 3 >nul
 SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
